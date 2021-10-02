@@ -1,0 +1,16 @@
+body {
+  font-family: 'poppins', sans-serif;
+}
+
+.jumbotron {
+  padding-top: 7rem;
+  background: linear-gradient(90deg, #00d2ff 0%, #3a7bd5 100%);
+}
+
+#projects {
+  background-color: #ffffff;
+}
+
+h2 {
+  font-family: 'Sniglet', sans-serif;
+}
